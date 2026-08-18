@@ -1,0 +1,84 @@
+﻿post_id,date,type,topic,views,likes,comments,saves,shares,reach,engagement_rate,time_posted,hashtags_count
+P001,2026-01-01,Carousel,10 Home Workout Mistakes,0,1,0,0,0,11,9.09,12:30,10
+P002,2026-01-02,Reel,Office Desk Stretch Routine,713,34,1,7,3,657,6.31,07:00,14
+P003,2026-01-04,Reel,5 Min Bedtime Core,459,25,2,4,3,407,7.41,10:00,12
+P004,2026-01-05,Reel,Full Body HIIT at Home,531,26,2,5,3,463,6.78,07:00,12
+P005,2026-01-06,Carousel,How to Stay Motivated,0,4,0,0,0,59,6.78,12:30,9
+P006,2026-01-07,Reel,Squat Form Correction,930,23,1,4,3,878,3.33,07:00,11
+P007,2026-01-08,Carousel,Recovery Tips for Sore Muscles,0,6,0,1,0,104,6.73,12:30,9
+P008,2026-01-09,Reel,Morning Yoga Flow,1031,29,3,5,1,922,3.69,07:00,10
+P009,2026-01-11,Reel,Post-Workout Stretch,3478,190,22,38,17,3294,7.68,10:00,13
+P010,2026-01-12,Reel,Plank Challenge Variations,2221,93,9,18,8,1979,5.76,07:00,14
+P011,2026-01-13,Carousel,Sleep and Muscle Recovery,0,6,0,1,0,143,4.9,12:30,9
+P012,2026-01-14,Reel,15 Min Upper Body Burn,909,50,5,5,6,896,7.26,07:00,14
+P013,2026-01-15,Carousel,Meal Prep for Busy People,0,11,0,3,0,218,6.42,12:30,9
+P014,2026-01-16,Reel,Cool Down Routine,680,25,2,4,3,596,5.0,07:00,10
+P015,2026-01-16,Static,New Month New Goals,0,7,0,0,0,229,3.06,09:00,8
+P016,2026-01-18,Reel,Booty Band Workout at Home,1133,28,2,5,2,1057,3.27,10:00,10
+P017,2026-01-19,Reel,Quick Cardio Blast,2292,104,8,25,6,2107,6.24,07:00,15
+P018,2026-01-20,Carousel,Mind-Muscle Connection,0,17,1,3,1,309,7.12,12:30,8
+P019,2026-01-20,Static,Fitness Fact of the Week,0,14,0,0,0,221,6.33,18:00,8
+P020,2026-01-21,Reel,Shoulder Mobility Routine,2703,68,4,12,3,2439,3.22,07:00,10
+P021,2026-01-22,Carousel,How to Track Progress,0,17,1,5,0,324,7.1,12:30,9
+P022,2026-01-22,Static,Goal Setting Template,0,18,1,0,0,311,6.11,09:00,5
+P023,2026-01-23,Reel,15 Min Arm Workout,3052,152,16,22,19,2630,6.85,07:00,13
+P024,2026-01-25,Reel,Burpee Alternatives,3659,96,5,15,11,3435,3.47,10:00,13
+P025,2026-01-26,Reel,Mountain Climber Variations,4085,241,17,30,31,3875,7.81,07:00,12
+P026,2026-01-27,Carousel,How to Do a Perfect Push-Up,0,15,1,3,1,381,5.25,12:30,11
+P027,2026-01-28,Reel,Standing Ab Workout,11771,400,32,92,49,11316,4.87,07:00,13
+P028,2026-01-29,Carousel,Protein Intake Guide,0,32,2,8,2,418,10.53,12:30,8
+P029,2026-01-30,Reel,Jump Rope Alternative Home,4198,233,26,38,18,3941,7.5,07:00,15
+P030,2026-02-01,Reel,15 Min Full Body Stretch,3543,117,12,18,12,3347,4.49,10:00,15
+P031,2026-02-02,Reel,Desk Posture Fixes,2394,101,6,23,9,2219,5.81,07:00,10
+P032,2026-02-03,Carousel,Home Gym Setup on a Budget,0,23,1,4,1,634,4.57,12:30,12
+P033,2026-02-04,Reel,No Jump Cardio,5923,349,28,47,20,5185,7.5,07:00,11
+P034,2026-02-05,Carousel,Macros Explained Simply,0,45,2,10,3,744,8.06,12:30,8
+P035,2026-02-06,Reel,Push Day at Home,19718,951,79,215,124,18491,6.94,07:00,15
+P036,2026-02-08,Reel,Pull Day Bodyweight,21956,1268,66,150,120,21738,7.31,10:00,14
+P037,2026-02-09,Reel,Leg Day No Squats,6157,239,19,48,12,5531,5.16,07:00,14
+P038,2026-02-10,Carousel,Bodyweight Exercise Progression,0,47,3,11,4,634,10.25,12:30,12
+P039,2026-02-11,Reel,Power Yoga for Strength,9571,293,18,61,19,8472,4.09,07:00,15
+P040,2026-02-12,Carousel,Plank Form Guide,0,62,6,13,2,745,11.14,12:30,9
+P041,2026-02-13,Reel,Balance Training Routine,56913,2796,272,370,324,51738,6.61,07:00,14
+P042,2026-02-15,Reel,Reaction Time Drills,4433,160,17,39,20,3828,5.32,10:00,10
+P043,2026-02-16,Reel,Flexibility Routine,9297,533,42,125,73,8344,8.31,07:00,14
+P044,2026-02-17,Carousel,Mind-Muscle Connection,0,46,3,6,3,980,5.92,12:30,12
+P045,2026-02-18,Reel,Neck & Shoulder Tension Relief,8708,384,31,39,41,7621,5.68,07:00,15
+P046,2026-02-19,Carousel,Workout Schedule for Beginners,0,70,4,22,5,1102,9.17,12:30,12
+P047,2026-02-20,Reel,Wrist Mobility Exercises,4664,202,13,34,18,4348,5.72,07:00,15
+P048,2026-02-22,Reel,Ankle Stability Drills,3984,100,9,23,7,3940,3.49,10:00,13
+P049,2026-02-23,Reel,15 Min Boxing Workout,43776,1487,104,217,193,40749,4.57,07:00,11
+P050,2026-02-24,Carousel,Cold Weather Workout Motivation,0,101,5,23,5,1118,11.99,12:30,11
+P051,2026-02-25,Reel,Kettlebell Alternative Home,10626,305,27,42,44,9802,3.93,07:00,15
+P052,2026-02-26,Carousel,How to Do a Perfect Push-Up,0,56,4,19,4,1590,5.22,12:30,11
+P053,2026-02-27,Reel,15 Min Morning Fat Burn,7084,279,30,65,23,6273,5.6,07:00,14
+P054,2026-03-01,Reel,No-Equipment Ab Workout,16232,865,89,105,79,14169,7.01,10:00,10
+P055,2026-03-02,Reel,Office Desk Stretch Routine,16894,478,24,93,52,15745,3.83,07:00,11
+P056,2026-03-03,Carousel,Stretching vs Warming Up,0,111,4,19,6,1611,8.69,12:30,9
+P057,2026-03-04,Reel,Full Body HIIT at Home,11075,545,65,64,32,10617,6.37,07:00,11
+P058,2026-03-05,Carousel,Home Gym Setup on a Budget,0,127,7,35,11,1524,11.81,12:30,8
+P059,2026-03-06,Reel,Squat Form Correction,58045,1588,168,214,165,57000,3.68,07:00,11
+P060,2026-03-08,Reel,10 Min Leg Day No Equipment,12364,331,25,51,49,11337,3.69,10:00,13
+P061,2026-03-08,Static,Transformation Tuesday Feature,0,96,7,4,4,1461,7.6,18:00,5
+P062,2026-03-09,Reel,Post-Workout Stretch,82040,4868,405,766,301,81722,7.73,07:00,15
+P063,2026-03-10,Carousel,Sleep and Muscle Recovery,0,156,11,49,12,1875,12.16,12:30,9
+P064,2026-03-11,Reel,Lunge Mistakes to Avoid,20018,855,52,93,52,17697,5.26,07:00,14
+P065,2026-03-12,Carousel,Meal Prep for Busy People,0,81,7,21,5,1800,6.33,12:30,9
+P066,2026-03-13,Reel,Resistance Band Alternative,15282,647,77,147,45,15122,5.99,07:00,11
+P067,2026-03-15,Reel,Cool Down Routine,18766,942,56,124,124,16858,6.64,10:00,12
+P068,2026-03-16,Reel,30-Day Squat Challenge Day 1,19773,1169,110,261,73,19363,8.16,07:00,13
+P069,2026-03-17,Carousel,Hydration and Performance,0,97,9,30,6,2571,5.52,12:30,8
+P070,2026-03-18,Reel,Quick Cardio Blast,9027,385,25,43,49,7838,5.56,07:00,13
+P071,2026-03-19,Carousel,Rest Day Ideas,0,143,9,24,13,1903,9.93,12:30,9
+P072,2026-03-20,Reel,Advanced Core Circuit,72034,2960,160,737,165,68738,5.58,07:00,10
+P073,2026-03-22,Reel,Shoulder Mobility Routine,8963,307,19,62,34,8469,4.71,10:00,10
+P074,2026-03-23,Reel,Back Pain Relief Stretches,12830,615,67,128,79,11684,6.93,07:00,14
+P075,2026-03-24,Carousel,Breathing Techniques Exercise,0,170,11,31,12,3106,7.21,12:30,9
+P076,2026-03-25,Reel,15 Min Arm Workout,18005,816,79,104,91,16177,6.05,07:00,11
+P077,2026-03-26,Carousel,Desk Job Health Tips,0,239,21,81,18,2160,16.62,12:30,11
+P078,2026-03-27,Reel,Mountain Climber Variations,20528,620,36,142,46,19455,4.11,07:00,12
+P079,2026-03-29,Reel,Glute Bridge Progression,19783,1112,129,242,90,18857,7.95,10:00,13
+P080,2026-03-29,Static,Fan Feature Friday,0,118,9,5,5,3109,4.41,20:00,6
+P081,2026-03-30,Reel,Low Impact Cardio,18144,597,67,100,82,15710,4.66,07:00,13
+P082,2026-03-31,Carousel,Stretching vs Warming Up,0,207,8,34,20,2218,12.13,12:30,10
+P083,2026-03-31,Static,Gratitude Post,0,207,13,11,5,2572,9.18,20:00,7

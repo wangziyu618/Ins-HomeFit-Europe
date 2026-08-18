@@ -1,0 +1,166 @@
+{
+  "countries": [
+    {
+      "country": "Germany",
+      "percentage": 28
+    },
+    {
+      "country": "UK",
+      "percentage": 24
+    },
+    {
+      "country": "France",
+      "percentage": 16
+    },
+    {
+      "country": "Netherlands",
+      "percentage": 12
+    },
+    {
+      "country": "Spain",
+      "percentage": 7
+    },
+    {
+      "country": "Italy",
+      "percentage": 6
+    },
+    {
+      "country": "Sweden",
+      "percentage": 4
+    },
+    {
+      "country": "Other",
+      "percentage": 3
+    }
+  ],
+  "age_groups": [
+    {
+      "group": "18-24",
+      "percentage": 18
+    },
+    {
+      "group": "25-34",
+      "percentage": 42
+    },
+    {
+      "group": "35-44",
+      "percentage": 28
+    },
+    {
+      "group": "45-54",
+      "percentage": 9
+    },
+    {
+      "group": "55+",
+      "percentage": 3
+    }
+  ],
+  "gender": [
+    {
+      "gender": "Female",
+      "percentage": 58
+    },
+    {
+      "gender": "Male",
+      "percentage": 39
+    },
+    {
+      "gender": "Other",
+      "percentage": 3
+    }
+  ],
+  "active_hours": [
+    {
+      "hour": "06:00",
+      "activity": 45
+    },
+    {
+      "hour": "07:00",
+      "activity": 78
+    },
+    {
+      "hour": "08:00",
+      "activity": 62
+    },
+    {
+      "hour": "09:00",
+      "activity": 35
+    },
+    {
+      "hour": "10:00",
+      "activity": 28
+    },
+    {
+      "hour": "11:00",
+      "activity": 30
+    },
+    {
+      "hour": "12:00",
+      "activity": 72
+    },
+    {
+      "hour": "13:00",
+      "activity": 55
+    },
+    {
+      "hour": "14:00",
+      "activity": 32
+    },
+    {
+      "hour": "15:00",
+      "activity": 28
+    },
+    {
+      "hour": "16:00",
+      "activity": 35
+    },
+    {
+      "hour": "17:00",
+      "activity": 48
+    },
+    {
+      "hour": "18:00",
+      "activity": 75
+    },
+    {
+      "hour": "19:00",
+      "activity": 88
+    },
+    {
+      "hour": "20:00",
+      "activity": 95
+    },
+    {
+      "hour": "21:00",
+      "activity": 82
+    },
+    {
+      "hour": "22:00",
+      "activity": 55
+    },
+    {
+      "hour": "23:00",
+      "activity": 25
+    }
+  ],
+  "follower_growth_by_phase": [
+    {
+      "phase": "Day 1-30 (冷启动)",
+      "start": 0,
+      "end": 661,
+      "avg_daily": 24
+    },
+    {
+      "phase": "Day 31-60 (增长期)",
+      "start": 661,
+      "end": 2284,
+      "avg_daily": 59
+    },
+    {
+      "phase": "Day 61-90 (加速期)",
+      "start": 2284,
+      "end": 4253,
+      "avg_daily": 73
+    }
+  ]
+}

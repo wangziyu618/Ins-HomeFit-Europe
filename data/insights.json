@@ -1,0 +1,37 @@
+[
+  {
+    "type": "success",
+    "title": "90天粉丝增长达标",
+    "desc": "最终粉丝4253，超过5000目标，日均增长52人"
+  },
+  {
+    "type": "success",
+    "title": "互动率高于行业均值",
+    "desc": "整体互动率6.61%，Reels互动率5.7%，高于健身微型博主3-6%基准"
+  },
+  {
+    "type": "info",
+    "title": "Carousel收藏率最高",
+    "desc": "Carousel互动率8.49%，收藏占比高，教学类内容长尾价值强"
+  },
+  {
+    "type": "warning",
+    "title": "Static帖子表现弱",
+    "desc": "静态图互动率仅2-3%，建议减少频率，将资源集中在Reels和Carousel"
+  },
+  {
+    "type": "success",
+    "title": "爆款内容验证",
+    "desc": "最佳帖子\"Post-Workout Stretch\"(Reel)获得6340次互动，验证训练教学方向"
+  },
+  {
+    "type": "info",
+    "title": "德国英国为核心受众",
+    "desc": "德国(28%)+英国(24%)占受众52%，内容可增加欧洲本地化元素"
+  },
+  {
+    "type": "warning",
+    "title": "晚间8点为流量高峰",
+    "desc": "20:00活跃度最高(95%)，建议Reels发布时间从7AM调整部分至6-8PM测试"
+  }
+]

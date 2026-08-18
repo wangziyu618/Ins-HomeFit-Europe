@@ -1,0 +1,35 @@
+[
+  {
+    "type": "Reel",
+    "count": 51,
+    "avg_likes": 609,
+    "avg_comments": 50,
+    "avg_saves": 104,
+    "avg_shares": 55,
+    "avg_engagement_rate": 5.7,
+    "total_reach": 669076,
+    "avg_views": 13968
+  },
+  {
+    "type": "Carousel",
+    "count": 26,
+    "avg_likes": 72,
+    "avg_comments": 4,
+    "avg_saves": 17,
+    "avg_shares": 5,
+    "avg_engagement_rate": 8.49,
+    "total_reach": 28282,
+    "avg_views": 0
+  },
+  {
+    "type": "Static",
+    "count": 6,
+    "avg_likes": 76,
+    "avg_comments": 5,
+    "avg_saves": 3,
+    "avg_shares": 2,
+    "avg_engagement_rate": 6.11,
+    "total_reach": 7903,
+    "avg_views": 0
+  }
+]

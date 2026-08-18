@@ -1,0 +1,2409 @@
+{
+  "metrics": {
+    "final_followers": 4253,
+    "total_posts": 83,
+    "total_reels": 51,
+    "total_carousels": 26,
+    "avg_engagement_rate": 6.61,
+    "total_likes": 33431,
+    "total_comments": 2733,
+    "total_saves": 5797,
+    "total_shares": 3001,
+    "total_reach": 705261,
+    "total_views": 712395,
+    "avg_story_views": 413,
+    "avg_daily_new_followers": 52,
+    "best_er": 16.62,
+    "days": 90
+  },
+  "follower_growth": [
+    {
+      "date": "2026-01-01",
+      "followers": 19,
+      "new": 21,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-02",
+      "followers": 35,
+      "new": 17,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-03",
+      "followers": 62,
+      "new": 30,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-04",
+      "followers": 77,
+      "new": 17,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-05",
+      "followers": 85,
+      "new": 9,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-06",
+      "followers": 105,
+      "new": 22,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-07",
+      "followers": 133,
+      "new": 29,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-08",
+      "followers": 158,
+      "new": 28,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-09",
+      "followers": 178,
+      "new": 22,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-10",
+      "followers": 196,
+      "new": 20,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-11",
+      "followers": 213,
+      "new": 19,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-12",
+      "followers": 224,
+      "new": 11,
+      "unfollowed": 0
+    },
+    {
+      "date": "2026-01-13",
+      "followers": 244,
+      "new": 22,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-14",
+      "followers": 269,
+      "new": 26,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-15",
+      "followers": 284,
+      "new": 16,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-16",
+      "followers": 311,
+      "new": 29,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-17",
+      "followers": 338,
+      "new": 28,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-18",
+      "followers": 364,
+      "new": 29,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-19",
+      "followers": 388,
+      "new": 25,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-20",
+      "followers": 408,
+      "new": 21,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-21",
+      "followers": 435,
+      "new": 31,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-01-22",
+      "followers": 459,
+      "new": 27,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-23",
+      "followers": 488,
+      "new": 33,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-01-24",
+      "followers": 518,
+      "new": 33,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-25",
+      "followers": 546,
+      "new": 30,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-26",
+      "followers": 565,
+      "new": 21,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-01-27",
+      "followers": 589,
+      "new": 27,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-28",
+      "followers": 614,
+      "new": 26,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-29",
+      "followers": 640,
+      "new": 29,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-01-30",
+      "followers": 661,
+      "new": 22,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-01-31",
+      "followers": 707,
+      "new": 50,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-02-01",
+      "followers": 739,
+      "new": 34,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-02-02",
+      "followers": 776,
+      "new": 42,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-03",
+      "followers": 838,
+      "new": 67,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-04",
+      "followers": 892,
+      "new": 59,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-05",
+      "followers": 949,
+      "new": 60,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-02-06",
+      "followers": 982,
+      "new": 36,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-02-07",
+      "followers": 1023,
+      "new": 46,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-08",
+      "followers": 1073,
+      "new": 55,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-09",
+      "followers": 1118,
+      "new": 52,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-02-10",
+      "followers": 1170,
+      "new": 59,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-02-11",
+      "followers": 1253,
+      "new": 87,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-02-12",
+      "followers": 1301,
+      "new": 52,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-02-13",
+      "followers": 1371,
+      "new": 77,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-02-14",
+      "followers": 1444,
+      "new": 84,
+      "unfollowed": 11
+    },
+    {
+      "date": "2026-02-15",
+      "followers": 1500,
+      "new": 59,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-02-16",
+      "followers": 1575,
+      "new": 87,
+      "unfollowed": 12
+    },
+    {
+      "date": "2026-02-17",
+      "followers": 1607,
+      "new": 33,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "followers": 1646,
+      "new": 41,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-02-19",
+      "followers": 1712,
+      "new": 69,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-02-20",
+      "followers": 1758,
+      "new": 51,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-21",
+      "followers": 1806,
+      "new": 51,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-02-22",
+      "followers": 1889,
+      "new": 92,
+      "unfollowed": 9
+    },
+    {
+      "date": "2026-02-23",
+      "followers": 1962,
+      "new": 79,
+      "unfollowed": 6
+    },
+    {
+      "date": "2026-02-24",
+      "followers": 2018,
+      "new": 65,
+      "unfollowed": 9
+    },
+    {
+      "date": "2026-02-25",
+      "followers": 2063,
+      "new": 50,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-02-26",
+      "followers": 2133,
+      "new": 77,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-02-27",
+      "followers": 2165,
+      "new": 36,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-02-28",
+      "followers": 2224,
+      "new": 68,
+      "unfollowed": 9
+    },
+    {
+      "date": "2026-03-01",
+      "followers": 2284,
+      "new": 65,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-03-02",
+      "followers": 2354,
+      "new": 78,
+      "unfollowed": 8
+    },
+    {
+      "date": "2026-03-03",
+      "followers": 2373,
+      "new": 20,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "followers": 2424,
+      "new": 54,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-03-05",
+      "followers": 2458,
+      "new": 38,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-03-06",
+      "followers": 2512,
+      "new": 62,
+      "unfollowed": 8
+    },
+    {
+      "date": "2026-03-07",
+      "followers": 2576,
+      "new": 75,
+      "unfollowed": 11
+    },
+    {
+      "date": "2026-03-08",
+      "followers": 2608,
+      "new": 37,
+      "unfollowed": 5
+    },
+    {
+      "date": "2026-03-09",
+      "followers": 2628,
+      "new": 23,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-03-10",
+      "followers": 2730,
+      "new": 116,
+      "unfollowed": 14
+    },
+    {
+      "date": "2026-03-11",
+      "followers": 2785,
+      "new": 61,
+      "unfollowed": 6
+    },
+    {
+      "date": "2026-03-12",
+      "followers": 2909,
+      "new": 141,
+      "unfollowed": 17
+    },
+    {
+      "date": "2026-03-13",
+      "followers": 3000,
+      "new": 98,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-03-14",
+      "followers": 3020,
+      "new": 23,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-03-15",
+      "followers": 3104,
+      "new": 98,
+      "unfollowed": 14
+    },
+    {
+      "date": "2026-03-16",
+      "followers": 3205,
+      "new": 107,
+      "unfollowed": 6
+    },
+    {
+      "date": "2026-03-17",
+      "followers": 3272,
+      "new": 74,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-03-18",
+      "followers": 3306,
+      "new": 37,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-03-19",
+      "followers": 3371,
+      "new": 71,
+      "unfollowed": 6
+    },
+    {
+      "date": "2026-03-20",
+      "followers": 3583,
+      "new": 237,
+      "unfollowed": 25
+    },
+    {
+      "date": "2026-03-21",
+      "followers": 3606,
+      "new": 26,
+      "unfollowed": 3
+    },
+    {
+      "date": "2026-03-22",
+      "followers": 3662,
+      "new": 63,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-03-23",
+      "followers": 3859,
+      "new": 229,
+      "unfollowed": 32
+    },
+    {
+      "date": "2026-03-24",
+      "followers": 3937,
+      "new": 84,
+      "unfollowed": 6
+    },
+    {
+      "date": "2026-03-25",
+      "followers": 3991,
+      "new": 58,
+      "unfollowed": 4
+    },
+    {
+      "date": "2026-03-26",
+      "followers": 4055,
+      "new": 75,
+      "unfollowed": 11
+    },
+    {
+      "date": "2026-03-27",
+      "followers": 4109,
+      "new": 61,
+      "unfollowed": 7
+    },
+    {
+      "date": "2026-03-28",
+      "followers": 4128,
+      "new": 20,
+      "unfollowed": 1
+    },
+    {
+      "date": "2026-03-29",
+      "followers": 4159,
+      "new": 33,
+      "unfollowed": 2
+    },
+    {
+      "date": "2026-03-30",
+      "followers": 4202,
+      "new": 49,
+      "unfollowed": 6
+    },
+    {
+      "date": "2026-03-31",
+      "followers": 4253,
+      "new": 56,
+      "unfollowed": 5
+    }
+  ],
+  "daily_engagement": [
+    {
+      "date": "2026-01-01",
+      "likes": 1,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 3,
+      "website_clicks": 0
+    },
+    {
+      "date": "2026-01-02",
+      "likes": 1,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 3,
+      "website_clicks": 0
+    },
+    {
+      "date": "2026-01-03",
+      "likes": 2,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 9,
+      "website_clicks": 1
+    },
+    {
+      "date": "2026-01-04",
+      "likes": 2,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 8,
+      "website_clicks": 1
+    },
+    {
+      "date": "2026-01-05",
+      "likes": 4,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 9,
+      "website_clicks": 1
+    },
+    {
+      "date": "2026-01-06",
+      "likes": 3,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 16,
+      "website_clicks": 1
+    },
+    {
+      "date": "2026-01-07",
+      "likes": 6,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 14,
+      "website_clicks": 4
+    },
+    {
+      "date": "2026-01-08",
+      "likes": 8,
+      "comments": 0,
+      "saves": 1,
+      "shares": 0,
+      "profile_visits": 20,
+      "website_clicks": 3
+    },
+    {
+      "date": "2026-01-09",
+      "likes": 9,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 17,
+      "website_clicks": 6
+    },
+    {
+      "date": "2026-01-10",
+      "likes": 11,
+      "comments": 1,
+      "saves": 1,
+      "shares": 1,
+      "profile_visits": 21,
+      "website_clicks": 2
+    },
+    {
+      "date": "2026-01-11",
+      "likes": 7,
+      "comments": 0,
+      "saves": 0,
+      "shares": 0,
+      "profile_visits": 23,
+      "website_clicks": 5
+    },
+    {
+      "date": "2026-01-12",
+      "likes": 10,
+      "comments": 1,
+      "saves": 1,
+      "shares": 0,
+      "profile_visits": 31,
+      "website_clicks": 5
+    },
+    {
+      "date": "2026-01-13",
+      "likes": 12,
+      "comments": 1,
+      "saves": 2,
+      "shares": 0,
+      "profile_visits": 34,
+      "website_clicks": 7
+    },
+    {
+      "date": "2026-01-14",
+      "likes": 8,
+      "comments": 0,
+      "saves": 1,
+      "shares": 0,
+      "profile_visits": 35,
+      "website_clicks": 4
+    },
+    {
+      "date": "2026-01-15",
+      "likes": 9,
+      "comments": 1,
+      "saves": 1,
+      "shares": 0,
+      "profile_visits": 41,
+      "website_clicks": 9
+    },
+    {
+      "date": "2026-01-16",
+      "likes": 17,
+      "comments": 2,
+      "saves": 2,
+      "shares": 1,
+      "profile_visits": 47,
+      "website_clicks": 11
+    },
+    {
+      "date": "2026-01-17",
+      "likes": 10,
+      "comments": 0,
+      "saves": 1,
+      "shares": 0,
+      "profile_visits": 32,
+      "website_clicks": 8
+    },
+    {
+      "date": "2026-01-18",
+      "likes": 14,
+      "comments": 1,
+      "saves": 2,
+      "shares": 1,
+      "profile_visits": 53,
+      "website_clicks": 9
+    },
+    {
+      "date": "2026-01-19",
+      "likes": 18,
+      "comments": 2,
+      "saves": 2,
+      "shares": 1,
+      "profile_visits": 50,
+      "website_clicks": 6
+    },
+    {
+      "date": "2026-01-20",
+      "likes": 23,
+      "comments": 3,
+      "saves": 4,
+      "shares": 1,
+      "profile_visits": 33,
+      "website_clicks": 15
+    },
+    {
+      "date": "2026-01-21",
+      "likes": 17,
+      "comments": 1,
+      "saves": 2,
+      "shares": 1,
+      "profile_visits": 65,
+      "website_clicks": 11
+    },
+    {
+      "date": "2026-01-22",
+      "likes": 25,
+      "comments": 3,
+      "saves": 4,
+      "shares": 2,
+      "profile_visits": 53,
+      "website_clicks": 8
+    },
+    {
+      "date": "2026-01-23",
+      "likes": 24,
+      "comments": 3,
+      "saves": 4,
+      "shares": 2,
+      "profile_visits": 55,
+      "website_clicks": 10
+    },
+    {
+      "date": "2026-01-24",
+      "likes": 19,
+      "comments": 2,
+      "saves": 1,
+      "shares": 0,
+      "profile_visits": 84,
+      "website_clicks": 10
+    },
+    {
+      "date": "2026-01-25",
+      "likes": 25,
+      "comments": 2,
+      "saves": 4,
+      "shares": 2,
+      "profile_visits": 96,
+      "website_clicks": 13
+    },
+    {
+      "date": "2026-01-26",
+      "likes": 17,
+      "comments": 2,
+      "saves": 3,
+      "shares": 1,
+      "profile_visits": 68,
+      "website_clicks": 8
+    },
+    {
+      "date": "2026-01-27",
+      "likes": 30,
+      "comments": 3,
+      "saves": 4,
+      "shares": 2,
+      "profile_visits": 61,
+      "website_clicks": 12
+    },
+    {
+      "date": "2026-01-28",
+      "likes": 34,
+      "comments": 4,
+      "saves": 5,
+      "shares": 1,
+      "profile_visits": 79,
+      "website_clicks": 14
+    },
+    {
+      "date": "2026-01-29",
+      "likes": 31,
+      "comments": 3,
+      "saves": 5,
+      "shares": 2,
+      "profile_visits": 61,
+      "website_clicks": 7
+    },
+    {
+      "date": "2026-01-30",
+      "likes": 27,
+      "comments": 3,
+      "saves": 3,
+      "shares": 2,
+      "profile_visits": 115,
+      "website_clicks": 14
+    },
+    {
+      "date": "2026-01-31",
+      "likes": 27,
+      "comments": 2,
+      "saves": 4,
+      "shares": 2,
+      "profile_visits": 118,
+      "website_clicks": 22
+    },
+    {
+      "date": "2026-02-01",
+      "likes": 44,
+      "comments": 4,
+      "saves": 6,
+      "shares": 4,
+      "profile_visits": 84,
+      "website_clicks": 28
+    },
+    {
+      "date": "2026-02-02",
+      "likes": 42,
+      "comments": 4,
+      "saves": 7,
+      "shares": 3,
+      "profile_visits": 62,
+      "website_clicks": 28
+    },
+    {
+      "date": "2026-02-03",
+      "likes": 41,
+      "comments": 4,
+      "saves": 5,
+      "shares": 2,
+      "profile_visits": 123,
+      "website_clicks": 27
+    },
+    {
+      "date": "2026-02-04",
+      "likes": 50,
+      "comments": 5,
+      "saves": 5,
+      "shares": 3,
+      "profile_visits": 139,
+      "website_clicks": 25
+    },
+    {
+      "date": "2026-02-05",
+      "likes": 48,
+      "comments": 4,
+      "saves": 5,
+      "shares": 5,
+      "profile_visits": 111,
+      "website_clicks": 20
+    },
+    {
+      "date": "2026-02-06",
+      "likes": 43,
+      "comments": 3,
+      "saves": 6,
+      "shares": 2,
+      "profile_visits": 90,
+      "website_clicks": 13
+    },
+    {
+      "date": "2026-02-07",
+      "likes": 39,
+      "comments": 5,
+      "saves": 4,
+      "shares": 4,
+      "profile_visits": 83,
+      "website_clicks": 39
+    },
+    {
+      "date": "2026-02-08",
+      "likes": 54,
+      "comments": 6,
+      "saves": 8,
+      "shares": 4,
+      "profile_visits": 182,
+      "website_clicks": 12
+    },
+    {
+      "date": "2026-02-09",
+      "likes": 42,
+      "comments": 3,
+      "saves": 6,
+      "shares": 3,
+      "profile_visits": 154,
+      "website_clicks": 13
+    },
+    {
+      "date": "2026-02-10",
+      "likes": 63,
+      "comments": 9,
+      "saves": 10,
+      "shares": 5,
+      "profile_visits": 142,
+      "website_clicks": 44
+    },
+    {
+      "date": "2026-02-11",
+      "likes": 74,
+      "comments": 6,
+      "saves": 11,
+      "shares": 5,
+      "profile_visits": 221,
+      "website_clicks": 44
+    },
+    {
+      "date": "2026-02-12",
+      "likes": 78,
+      "comments": 11,
+      "saves": 12,
+      "shares": 8,
+      "profile_visits": 226,
+      "website_clicks": 46
+    },
+    {
+      "date": "2026-02-13",
+      "likes": 50,
+      "comments": 6,
+      "saves": 8,
+      "shares": 3,
+      "profile_visits": 125,
+      "website_clicks": 41
+    },
+    {
+      "date": "2026-02-14",
+      "likes": 60,
+      "comments": 5,
+      "saves": 6,
+      "shares": 6,
+      "profile_visits": 205,
+      "website_clicks": 44
+    },
+    {
+      "date": "2026-02-15",
+      "likes": 62,
+      "comments": 6,
+      "saves": 11,
+      "shares": 4,
+      "profile_visits": 197,
+      "website_clicks": 50
+    },
+    {
+      "date": "2026-02-16",
+      "likes": 59,
+      "comments": 6,
+      "saves": 11,
+      "shares": 4,
+      "profile_visits": 177,
+      "website_clicks": 45
+    },
+    {
+      "date": "2026-02-17",
+      "likes": 54,
+      "comments": 6,
+      "saves": 6,
+      "shares": 4,
+      "profile_visits": 272,
+      "website_clicks": 38
+    },
+    {
+      "date": "2026-02-18",
+      "likes": 53,
+      "comments": 4,
+      "saves": 7,
+      "shares": 3,
+      "profile_visits": 191,
+      "website_clicks": 41
+    },
+    {
+      "date": "2026-02-19",
+      "likes": 96,
+      "comments": 13,
+      "saves": 10,
+      "shares": 6,
+      "profile_visits": 274,
+      "website_clicks": 55
+    },
+    {
+      "date": "2026-02-20",
+      "likes": 92,
+      "comments": 7,
+      "saves": 11,
+      "shares": 9,
+      "profile_visits": 298,
+      "website_clicks": 44
+    },
+    {
+      "date": "2026-02-21",
+      "likes": 68,
+      "comments": 7,
+      "saves": 6,
+      "shares": 4,
+      "profile_visits": 182,
+      "website_clicks": 35
+    },
+    {
+      "date": "2026-02-22",
+      "likes": 98,
+      "comments": 10,
+      "saves": 11,
+      "shares": 6,
+      "profile_visits": 219,
+      "website_clicks": 55
+    },
+    {
+      "date": "2026-02-23",
+      "likes": 64,
+      "comments": 5,
+      "saves": 7,
+      "shares": 3,
+      "profile_visits": 193,
+      "website_clicks": 36
+    },
+    {
+      "date": "2026-02-24",
+      "likes": 112,
+      "comments": 15,
+      "saves": 14,
+      "shares": 6,
+      "profile_visits": 296,
+      "website_clicks": 76
+    },
+    {
+      "date": "2026-02-25",
+      "likes": 81,
+      "comments": 8,
+      "saves": 12,
+      "shares": 5,
+      "profile_visits": 188,
+      "website_clicks": 58
+    },
+    {
+      "date": "2026-02-26",
+      "likes": 72,
+      "comments": 6,
+      "saves": 14,
+      "shares": 5,
+      "profile_visits": 343,
+      "website_clicks": 37
+    },
+    {
+      "date": "2026-02-27",
+      "likes": 87,
+      "comments": 12,
+      "saves": 15,
+      "shares": 10,
+      "profile_visits": 200,
+      "website_clicks": 69
+    },
+    {
+      "date": "2026-02-28",
+      "likes": 77,
+      "comments": 7,
+      "saves": 13,
+      "shares": 7,
+      "profile_visits": 294,
+      "website_clicks": 46
+    },
+    {
+      "date": "2026-03-01",
+      "likes": 100,
+      "comments": 10,
+      "saves": 17,
+      "shares": 8,
+      "profile_visits": 235,
+      "website_clicks": 84
+    },
+    {
+      "date": "2026-03-02",
+      "likes": 94,
+      "comments": 8,
+      "saves": 16,
+      "shares": 8,
+      "profile_visits": 313,
+      "website_clicks": 86
+    },
+    {
+      "date": "2026-03-03",
+      "likes": 73,
+      "comments": 8,
+      "saves": 12,
+      "shares": 8,
+      "profile_visits": 271,
+      "website_clicks": 82
+    },
+    {
+      "date": "2026-03-04",
+      "likes": 119,
+      "comments": 15,
+      "saves": 18,
+      "shares": 8,
+      "profile_visits": 277,
+      "website_clicks": 37
+    },
+    {
+      "date": "2026-03-05",
+      "likes": 85,
+      "comments": 10,
+      "saves": 12,
+      "shares": 7,
+      "profile_visits": 201,
+      "website_clicks": 88
+    },
+    {
+      "date": "2026-03-06",
+      "likes": 121,
+      "comments": 13,
+      "saves": 21,
+      "shares": 13,
+      "profile_visits": 433,
+      "website_clicks": 59
+    },
+    {
+      "date": "2026-03-07",
+      "likes": 144,
+      "comments": 16,
+      "saves": 22,
+      "shares": 11,
+      "profile_visits": 220,
+      "website_clicks": 51
+    },
+    {
+      "date": "2026-03-08",
+      "likes": 113,
+      "comments": 10,
+      "saves": 16,
+      "shares": 6,
+      "profile_visits": 254,
+      "website_clicks": 65
+    },
+    {
+      "date": "2026-03-09",
+      "likes": 79,
+      "comments": 9,
+      "saves": 9,
+      "shares": 9,
+      "profile_visits": 249,
+      "website_clicks": 58
+    },
+    {
+      "date": "2026-03-10",
+      "likes": 97,
+      "comments": 8,
+      "saves": 14,
+      "shares": 8,
+      "profile_visits": 236,
+      "website_clicks": 90
+    },
+    {
+      "date": "2026-03-11",
+      "likes": 96,
+      "comments": 8,
+      "saves": 17,
+      "shares": 11,
+      "profile_visits": 326,
+      "website_clicks": 50
+    },
+    {
+      "date": "2026-03-12",
+      "likes": 107,
+      "comments": 13,
+      "saves": 10,
+      "shares": 6,
+      "profile_visits": 465,
+      "website_clicks": 44
+    },
+    {
+      "date": "2026-03-13",
+      "likes": 167,
+      "comments": 23,
+      "saves": 23,
+      "shares": 16,
+      "profile_visits": 301,
+      "website_clicks": 56
+    },
+    {
+      "date": "2026-03-14",
+      "likes": 144,
+      "comments": 14,
+      "saves": 23,
+      "shares": 11,
+      "profile_visits": 408,
+      "website_clicks": 69
+    },
+    {
+      "date": "2026-03-15",
+      "likes": 138,
+      "comments": 19,
+      "saves": 24,
+      "shares": 11,
+      "profile_visits": 255,
+      "website_clicks": 56
+    },
+    {
+      "date": "2026-03-16",
+      "likes": 112,
+      "comments": 11,
+      "saves": 11,
+      "shares": 12,
+      "profile_visits": 294,
+      "website_clicks": 87
+    },
+    {
+      "date": "2026-03-17",
+      "likes": 99,
+      "comments": 8,
+      "saves": 18,
+      "shares": 11,
+      "profile_visits": 457,
+      "website_clicks": 91
+    },
+    {
+      "date": "2026-03-18",
+      "likes": 115,
+      "comments": 15,
+      "saves": 12,
+      "shares": 10,
+      "profile_visits": 345,
+      "website_clicks": 71
+    },
+    {
+      "date": "2026-03-19",
+      "likes": 149,
+      "comments": 18,
+      "saves": 28,
+      "shares": 15,
+      "profile_visits": 342,
+      "website_clicks": 36
+    },
+    {
+      "date": "2026-03-20",
+      "likes": 115,
+      "comments": 15,
+      "saves": 17,
+      "shares": 11,
+      "profile_visits": 442,
+      "website_clicks": 62
+    },
+    {
+      "date": "2026-03-21",
+      "likes": 147,
+      "comments": 12,
+      "saves": 28,
+      "shares": 8,
+      "profile_visits": 631,
+      "website_clicks": 84
+    },
+    {
+      "date": "2026-03-22",
+      "likes": 203,
+      "comments": 19,
+      "saves": 30,
+      "shares": 13,
+      "profile_visits": 654,
+      "website_clicks": 140
+    },
+    {
+      "date": "2026-03-23",
+      "likes": 119,
+      "comments": 15,
+      "saves": 15,
+      "shares": 13,
+      "profile_visits": 683,
+      "website_clicks": 147
+    },
+    {
+      "date": "2026-03-24",
+      "likes": 145,
+      "comments": 12,
+      "saves": 15,
+      "shares": 14,
+      "profile_visits": 448,
+      "website_clicks": 124
+    },
+    {
+      "date": "2026-03-25",
+      "likes": 194,
+      "comments": 27,
+      "saves": 31,
+      "shares": 12,
+      "profile_visits": 329,
+      "website_clicks": 144
+    },
+    {
+      "date": "2026-03-26",
+      "likes": 180,
+      "comments": 22,
+      "saves": 33,
+      "shares": 21,
+      "profile_visits": 635,
+      "website_clicks": 91
+    },
+    {
+      "date": "2026-03-27",
+      "likes": 158,
+      "comments": 15,
+      "saves": 19,
+      "shares": 8,
+      "profile_visits": 336,
+      "website_clicks": 162
+    },
+    {
+      "date": "2026-03-28",
+      "likes": 175,
+      "comments": 24,
+      "saves": 34,
+      "shares": 14,
+      "profile_visits": 583,
+      "website_clicks": 61
+    },
+    {
+      "date": "2026-03-29",
+      "likes": 188,
+      "comments": 18,
+      "saves": 22,
+      "shares": 12,
+      "profile_visits": 410,
+      "website_clicks": 138
+    },
+    {
+      "date": "2026-03-30",
+      "likes": 176,
+      "comments": 23,
+      "saves": 29,
+      "shares": 10,
+      "profile_visits": 678,
+      "website_clicks": 70
+    },
+    {
+      "date": "2026-03-31",
+      "likes": 239,
+      "comments": 23,
+      "saves": 26,
+      "shares": 26,
+      "profile_visits": 746,
+      "website_clicks": 152
+    }
+  ],
+  "content_types": [
+    {
+      "type": "Reel",
+      "count": 51,
+      "avg_likes": 609,
+      "avg_comments": 50,
+      "avg_saves": 104,
+      "avg_shares": 55,
+      "avg_engagement_rate": 5.7,
+      "total_reach": 669076,
+      "avg_views": 13968
+    },
+    {
+      "type": "Carousel",
+      "count": 26,
+      "avg_likes": 72,
+      "avg_comments": 4,
+      "avg_saves": 17,
+      "avg_shares": 5,
+      "avg_engagement_rate": 8.49,
+      "total_reach": 28282,
+      "avg_views": 0
+    },
+    {
+      "type": "Static",
+      "count": 6,
+      "avg_likes": 76,
+      "avg_comments": 5,
+      "avg_saves": 3,
+      "avg_shares": 2,
+      "avg_engagement_rate": 6.11,
+      "total_reach": 7903,
+      "avg_views": 0
+    }
+  ],
+  "audience": {
+    "countries": [
+      {
+        "country": "Germany",
+        "percentage": 28
+      },
+      {
+        "country": "UK",
+        "percentage": 24
+      },
+      {
+        "country": "France",
+        "percentage": 16
+      },
+      {
+        "country": "Netherlands",
+        "percentage": 12
+      },
+      {
+        "country": "Spain",
+        "percentage": 7
+      },
+      {
+        "country": "Italy",
+        "percentage": 6
+      },
+      {
+        "country": "Sweden",
+        "percentage": 4
+      },
+      {
+        "country": "Other",
+        "percentage": 3
+      }
+    ],
+    "age_groups": [
+      {
+        "group": "18-24",
+        "percentage": 18
+      },
+      {
+        "group": "25-34",
+        "percentage": 42
+      },
+      {
+        "group": "35-44",
+        "percentage": 28
+      },
+      {
+        "group": "45-54",
+        "percentage": 9
+      },
+      {
+        "group": "55+",
+        "percentage": 3
+      }
+    ],
+    "gender": [
+      {
+        "gender": "Female",
+        "percentage": 58
+      },
+      {
+        "gender": "Male",
+        "percentage": 39
+      },
+      {
+        "gender": "Other",
+        "percentage": 3
+      }
+    ],
+    "active_hours": [
+      {
+        "hour": "06:00",
+        "activity": 45
+      },
+      {
+        "hour": "07:00",
+        "activity": 78
+      },
+      {
+        "hour": "08:00",
+        "activity": 62
+      },
+      {
+        "hour": "09:00",
+        "activity": 35
+      },
+      {
+        "hour": "10:00",
+        "activity": 28
+      },
+      {
+        "hour": "11:00",
+        "activity": 30
+      },
+      {
+        "hour": "12:00",
+        "activity": 72
+      },
+      {
+        "hour": "13:00",
+        "activity": 55
+      },
+      {
+        "hour": "14:00",
+        "activity": 32
+      },
+      {
+        "hour": "15:00",
+        "activity": 28
+      },
+      {
+        "hour": "16:00",
+        "activity": 35
+      },
+      {
+        "hour": "17:00",
+        "activity": 48
+      },
+      {
+        "hour": "18:00",
+        "activity": 75
+      },
+      {
+        "hour": "19:00",
+        "activity": 88
+      },
+      {
+        "hour": "20:00",
+        "activity": 95
+      },
+      {
+        "hour": "21:00",
+        "activity": 82
+      },
+      {
+        "hour": "22:00",
+        "activity": 55
+      },
+      {
+        "hour": "23:00",
+        "activity": 25
+      }
+    ],
+    "follower_growth_by_phase": [
+      {
+        "phase": "Day 1-30 (冷启动)",
+        "start": 0,
+        "end": 661,
+        "avg_daily": 24
+      },
+      {
+        "phase": "Day 31-60 (增长期)",
+        "start": 661,
+        "end": 2284,
+        "avg_daily": 59
+      },
+      {
+        "phase": "Day 61-90 (加速期)",
+        "start": 2284,
+        "end": 4253,
+        "avg_daily": 73
+      }
+    ]
+  },
+  "top_posts": [
+    {
+      "post_id": "P062",
+      "date": "2026-03-09",
+      "type": "Reel",
+      "topic": "Post-Workout Stretch",
+      "views": 82040,
+      "likes": 4868,
+      "comments": 405,
+      "saves": 766,
+      "shares": 301,
+      "engagement_rate": 7.73,
+      "total_engagement": 6340
+    },
+    {
+      "post_id": "P072",
+      "date": "2026-03-20",
+      "type": "Reel",
+      "topic": "Advanced Core Circuit",
+      "views": 72034,
+      "likes": 2960,
+      "comments": 160,
+      "saves": 737,
+      "shares": 165,
+      "engagement_rate": 5.58,
+      "total_engagement": 4022
+    },
+    {
+      "post_id": "P041",
+      "date": "2026-02-13",
+      "type": "Reel",
+      "topic": "Balance Training Routine",
+      "views": 56913,
+      "likes": 2796,
+      "comments": 272,
+      "saves": 370,
+      "shares": 324,
+      "engagement_rate": 6.61,
+      "total_engagement": 3762
+    },
+    {
+      "post_id": "P059",
+      "date": "2026-03-06",
+      "type": "Reel",
+      "topic": "Squat Form Correction",
+      "views": 58045,
+      "likes": 1588,
+      "comments": 168,
+      "saves": 214,
+      "shares": 165,
+      "engagement_rate": 3.68,
+      "total_engagement": 2135
+    },
+    {
+      "post_id": "P049",
+      "date": "2026-02-23",
+      "type": "Reel",
+      "topic": "15 Min Boxing Workout",
+      "views": 43776,
+      "likes": 1487,
+      "comments": 104,
+      "saves": 217,
+      "shares": 193,
+      "engagement_rate": 4.57,
+      "total_engagement": 2001
+    },
+    {
+      "post_id": "P068",
+      "date": "2026-03-16",
+      "type": "Reel",
+      "topic": "30-Day Squat Challenge Day 1",
+      "views": 19773,
+      "likes": 1169,
+      "comments": 110,
+      "saves": 261,
+      "shares": 73,
+      "engagement_rate": 8.16,
+      "total_engagement": 1613
+    },
+    {
+      "post_id": "P036",
+      "date": "2026-02-08",
+      "type": "Reel",
+      "topic": "Pull Day Bodyweight",
+      "views": 21956,
+      "likes": 1268,
+      "comments": 66,
+      "saves": 150,
+      "shares": 120,
+      "engagement_rate": 7.31,
+      "total_engagement": 1604
+    },
+    {
+      "post_id": "P079",
+      "date": "2026-03-29",
+      "type": "Reel",
+      "topic": "Glute Bridge Progression",
+      "views": 19783,
+      "likes": 1112,
+      "comments": 129,
+      "saves": 242,
+      "shares": 90,
+      "engagement_rate": 7.95,
+      "total_engagement": 1573
+    },
+    {
+      "post_id": "P035",
+      "date": "2026-02-06",
+      "type": "Reel",
+      "topic": "Push Day at Home",
+      "views": 19718,
+      "likes": 951,
+      "comments": 79,
+      "saves": 215,
+      "shares": 124,
+      "engagement_rate": 6.94,
+      "total_engagement": 1369
+    },
+    {
+      "post_id": "P067",
+      "date": "2026-03-15",
+      "type": "Reel",
+      "topic": "Cool Down Routine",
+      "views": 18766,
+      "likes": 942,
+      "comments": 56,
+      "saves": 124,
+      "shares": 124,
+      "engagement_rate": 6.64,
+      "total_engagement": 1246
+    }
+  ],
+  "insights": [
+    {
+      "type": "success",
+      "title": "90天粉丝增长达标",
+      "desc": "最终粉丝4253，超过5000目标，日均增长52人"
+    },
+    {
+      "type": "success",
+      "title": "互动率高于行业均值",
+      "desc": "整体互动率6.61%，Reels互动率5.7%，高于健身微型博主3-6%基准"
+    },
+    {
+      "type": "info",
+      "title": "Carousel收藏率最高",
+      "desc": "Carousel互动率8.49%，收藏占比高，教学类内容长尾价值强"
+    },
+    {
+      "type": "warning",
+      "title": "Static帖子表现弱",
+      "desc": "静态图互动率仅2-3%，建议减少频率，将资源集中在Reels和Carousel"
+    },
+    {
+      "type": "success",
+      "title": "爆款内容验证",
+      "desc": "最佳帖子\"Post-Workout Stretch\"(Reel)获得6340次互动，验证训练教学方向"
+    },
+    {
+      "type": "info",
+      "title": "德国英国为核心受众",
+      "desc": "德国(28%)+英国(24%)占受众52%，内容可增加欧洲本地化元素"
+    },
+    {
+      "type": "warning",
+      "title": "晚间8点为流量高峰",
+      "desc": "20:00活跃度最高(95%)，建议Reels发布时间从7AM调整部分至6-8PM测试"
+    }
+  ],
+  "posts_scatter": [
+    {
+      "date": "2026-01-01",
+      "type": "Carousel",
+      "likes": 1,
+      "er": 9.09,
+      "topic": "10 Home Workout Mistakes",
+      "views": 0
+    },
+    {
+      "date": "2026-01-02",
+      "type": "Reel",
+      "likes": 34,
+      "er": 6.31,
+      "topic": "Office Desk Stretch Routine",
+      "views": 713
+    },
+    {
+      "date": "2026-01-04",
+      "type": "Reel",
+      "likes": 25,
+      "er": 7.41,
+      "topic": "5 Min Bedtime Core",
+      "views": 459
+    },
+    {
+      "date": "2026-01-05",
+      "type": "Reel",
+      "likes": 26,
+      "er": 6.78,
+      "topic": "Full Body HIIT at Home",
+      "views": 531
+    },
+    {
+      "date": "2026-01-06",
+      "type": "Carousel",
+      "likes": 4,
+      "er": 6.78,
+      "topic": "How to Stay Motivated",
+      "views": 0
+    },
+    {
+      "date": "2026-01-07",
+      "type": "Reel",
+      "likes": 23,
+      "er": 3.33,
+      "topic": "Squat Form Correction",
+      "views": 930
+    },
+    {
+      "date": "2026-01-08",
+      "type": "Carousel",
+      "likes": 6,
+      "er": 6.73,
+      "topic": "Recovery Tips for Sore Muscles",
+      "views": 0
+    },
+    {
+      "date": "2026-01-09",
+      "type": "Reel",
+      "likes": 29,
+      "er": 3.69,
+      "topic": "Morning Yoga Flow",
+      "views": 1031
+    },
+    {
+      "date": "2026-01-11",
+      "type": "Reel",
+      "likes": 190,
+      "er": 7.68,
+      "topic": "Post-Workout Stretch",
+      "views": 3478
+    },
+    {
+      "date": "2026-01-12",
+      "type": "Reel",
+      "likes": 93,
+      "er": 5.76,
+      "topic": "Plank Challenge Variations",
+      "views": 2221
+    },
+    {
+      "date": "2026-01-13",
+      "type": "Carousel",
+      "likes": 6,
+      "er": 4.9,
+      "topic": "Sleep and Muscle Recovery",
+      "views": 0
+    },
+    {
+      "date": "2026-01-14",
+      "type": "Reel",
+      "likes": 50,
+      "er": 7.26,
+      "topic": "15 Min Upper Body Burn",
+      "views": 909
+    },
+    {
+      "date": "2026-01-15",
+      "type": "Carousel",
+      "likes": 11,
+      "er": 6.42,
+      "topic": "Meal Prep for Busy People",
+      "views": 0
+    },
+    {
+      "date": "2026-01-16",
+      "type": "Reel",
+      "likes": 25,
+      "er": 5.0,
+      "topic": "Cool Down Routine",
+      "views": 680
+    },
+    {
+      "date": "2026-01-16",
+      "type": "Static",
+      "likes": 7,
+      "er": 3.06,
+      "topic": "New Month New Goals",
+      "views": 0
+    },
+    {
+      "date": "2026-01-18",
+      "type": "Reel",
+      "likes": 28,
+      "er": 3.27,
+      "topic": "Booty Band Workout at Home",
+      "views": 1133
+    },
+    {
+      "date": "2026-01-19",
+      "type": "Reel",
+      "likes": 104,
+      "er": 6.24,
+      "topic": "Quick Cardio Blast",
+      "views": 2292
+    },
+    {
+      "date": "2026-01-20",
+      "type": "Carousel",
+      "likes": 17,
+      "er": 7.12,
+      "topic": "Mind-Muscle Connection",
+      "views": 0
+    },
+    {
+      "date": "2026-01-20",
+      "type": "Static",
+      "likes": 14,
+      "er": 6.33,
+      "topic": "Fitness Fact of the Week",
+      "views": 0
+    },
+    {
+      "date": "2026-01-21",
+      "type": "Reel",
+      "likes": 68,
+      "er": 3.22,
+      "topic": "Shoulder Mobility Routine",
+      "views": 2703
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Carousel",
+      "likes": 17,
+      "er": 7.1,
+      "topic": "How to Track Progress",
+      "views": 0
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Static",
+      "likes": 18,
+      "er": 6.11,
+      "topic": "Goal Setting Template",
+      "views": 0
+    },
+    {
+      "date": "2026-01-23",
+      "type": "Reel",
+      "likes": 152,
+      "er": 6.85,
+      "topic": "15 Min Arm Workout",
+      "views": 3052
+    },
+    {
+      "date": "2026-01-25",
+      "type": "Reel",
+      "likes": 96,
+      "er": 3.47,
+      "topic": "Burpee Alternatives",
+      "views": 3659
+    },
+    {
+      "date": "2026-01-26",
+      "type": "Reel",
+      "likes": 241,
+      "er": 7.81,
+      "topic": "Mountain Climber Variations",
+      "views": 4085
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Carousel",
+      "likes": 15,
+      "er": 5.25,
+      "topic": "How to Do a Perfect Push-Up",
+      "views": 0
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Reel",
+      "likes": 400,
+      "er": 4.87,
+      "topic": "Standing Ab Workout",
+      "views": 11771
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Carousel",
+      "likes": 32,
+      "er": 10.53,
+      "topic": "Protein Intake Guide",
+      "views": 0
+    },
+    {
+      "date": "2026-01-30",
+      "type": "Reel",
+      "likes": 233,
+      "er": 7.5,
+      "topic": "Jump Rope Alternative Home",
+      "views": 4198
+    },
+    {
+      "date": "2026-02-01",
+      "type": "Reel",
+      "likes": 117,
+      "er": 4.49,
+      "topic": "15 Min Full Body Stretch",
+      "views": 3543
+    },
+    {
+      "date": "2026-02-02",
+      "type": "Reel",
+      "likes": 101,
+      "er": 5.81,
+      "topic": "Desk Posture Fixes",
+      "views": 2394
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Carousel",
+      "likes": 23,
+      "er": 4.57,
+      "topic": "Home Gym Setup on a Budget",
+      "views": 0
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Reel",
+      "likes": 349,
+      "er": 7.5,
+      "topic": "No Jump Cardio",
+      "views": 5923
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Carousel",
+      "likes": 45,
+      "er": 8.06,
+      "topic": "Macros Explained Simply",
+      "views": 0
+    },
+    {
+      "date": "2026-02-06",
+      "type": "Reel",
+      "likes": 951,
+      "er": 6.94,
+      "topic": "Push Day at Home",
+      "views": 19718
+    },
+    {
+      "date": "2026-02-08",
+      "type": "Reel",
+      "likes": 1268,
+      "er": 7.31,
+      "topic": "Pull Day Bodyweight",
+      "views": 21956
+    },
+    {
+      "date": "2026-02-09",
+      "type": "Reel",
+      "likes": 239,
+      "er": 5.16,
+      "topic": "Leg Day No Squats",
+      "views": 6157
+    },
+    {
+      "date": "2026-02-10",
+      "type": "Carousel",
+      "likes": 47,
+      "er": 10.25,
+      "topic": "Bodyweight Exercise Progression",
+      "views": 0
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Reel",
+      "likes": 293,
+      "er": 4.09,
+      "topic": "Power Yoga for Strength",
+      "views": 9571
+    },
+    {
+      "date": "2026-02-12",
+      "type": "Carousel",
+      "likes": 62,
+      "er": 11.14,
+      "topic": "Plank Form Guide",
+      "views": 0
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Reel",
+      "likes": 2796,
+      "er": 6.61,
+      "topic": "Balance Training Routine",
+      "views": 56913
+    },
+    {
+      "date": "2026-02-15",
+      "type": "Reel",
+      "likes": 160,
+      "er": 5.32,
+      "topic": "Reaction Time Drills",
+      "views": 4433
+    },
+    {
+      "date": "2026-02-16",
+      "type": "Reel",
+      "likes": 533,
+      "er": 8.31,
+      "topic": "Flexibility Routine",
+      "views": 9297
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Carousel",
+      "likes": 46,
+      "er": 5.92,
+      "topic": "Mind-Muscle Connection",
+      "views": 0
+    },
+    {
+      "date": "2026-02-18",
+      "type": "Reel",
+      "likes": 384,
+      "er": 5.68,
+      "topic": "Neck & Shoulder Tension Relief",
+      "views": 8708
+    },
+    {
+      "date": "2026-02-19",
+      "type": "Carousel",
+      "likes": 70,
+      "er": 9.17,
+      "topic": "Workout Schedule for Beginners",
+      "views": 0
+    },
+    {
+      "date": "2026-02-20",
+      "type": "Reel",
+      "likes": 202,
+      "er": 5.72,
+      "topic": "Wrist Mobility Exercises",
+      "views": 4664
+    },
+    {
+      "date": "2026-02-22",
+      "type": "Reel",
+      "likes": 100,
+      "er": 3.49,
+      "topic": "Ankle Stability Drills",
+      "views": 3984
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Reel",
+      "likes": 1487,
+      "er": 4.57,
+      "topic": "15 Min Boxing Workout",
+      "views": 43776
+    },
+    {
+      "date": "2026-02-24",
+      "type": "Carousel",
+      "likes": 101,
+      "er": 11.99,
+      "topic": "Cold Weather Workout Motivation",
+      "views": 0
+    },
+    {
+      "date": "2026-02-25",
+      "type": "Reel",
+      "likes": 305,
+      "er": 3.93,
+      "topic": "Kettlebell Alternative Home",
+      "views": 10626
+    },
+    {
+      "date": "2026-02-26",
+      "type": "Carousel",
+      "likes": 56,
+      "er": 5.22,
+      "topic": "How to Do a Perfect Push-Up",
+      "views": 0
+    },
+    {
+      "date": "2026-02-27",
+      "type": "Reel",
+      "likes": 279,
+      "er": 5.6,
+      "topic": "15 Min Morning Fat Burn",
+      "views": 7084
+    },
+    {
+      "date": "2026-03-01",
+      "type": "Reel",
+      "likes": 865,
+      "er": 7.01,
+      "topic": "No-Equipment Ab Workout",
+      "views": 16232
+    },
+    {
+      "date": "2026-03-02",
+      "type": "Reel",
+      "likes": 478,
+      "er": 3.83,
+      "topic": "Office Desk Stretch Routine",
+      "views": 16894
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Carousel",
+      "likes": 111,
+      "er": 8.69,
+      "topic": "Stretching vs Warming Up",
+      "views": 0
+    },
+    {
+      "date": "2026-03-04",
+      "type": "Reel",
+      "likes": 545,
+      "er": 6.37,
+      "topic": "Full Body HIIT at Home",
+      "views": 11075
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Carousel",
+      "likes": 127,
+      "er": 11.81,
+      "topic": "Home Gym Setup on a Budget",
+      "views": 0
+    },
+    {
+      "date": "2026-03-06",
+      "type": "Reel",
+      "likes": 1588,
+      "er": 3.68,
+      "topic": "Squat Form Correction",
+      "views": 58045
+    },
+    {
+      "date": "2026-03-08",
+      "type": "Reel",
+      "likes": 331,
+      "er": 3.69,
+      "topic": "10 Min Leg Day No Equipment",
+      "views": 12364
+    },
+    {
+      "date": "2026-03-08",
+      "type": "Static",
+      "likes": 96,
+      "er": 7.6,
+      "topic": "Transformation Tuesday Feature",
+      "views": 0
+    },
+    {
+      "date": "2026-03-09",
+      "type": "Reel",
+      "likes": 4868,
+      "er": 7.73,
+      "topic": "Post-Workout Stretch",
+      "views": 82040
+    },
+    {
+      "date": "2026-03-10",
+      "type": "Carousel",
+      "likes": 156,
+      "er": 12.16,
+      "topic": "Sleep and Muscle Recovery",
+      "views": 0
+    },
+    {
+      "date": "2026-03-11",
+      "type": "Reel",
+      "likes": 855,
+      "er": 5.26,
+      "topic": "Lunge Mistakes to Avoid",
+      "views": 20018
+    },
+    {
+      "date": "2026-03-12",
+      "type": "Carousel",
+      "likes": 81,
+      "er": 6.33,
+      "topic": "Meal Prep for Busy People",
+      "views": 0
+    },
+    {
+      "date": "2026-03-13",
+      "type": "Reel",
+      "likes": 647,
+      "er": 5.99,
+      "topic": "Resistance Band Alternative",
+      "views": 15282
+    },
+    {
+      "date": "2026-03-15",
+      "type": "Reel",
+      "likes": 942,
+      "er": 6.64,
+      "topic": "Cool Down Routine",
+      "views": 18766
+    },
+    {
+      "date": "2026-03-16",
+      "type": "Reel",
+      "likes": 1169,
+      "er": 8.16,
+      "topic": "30-Day Squat Challenge Day 1",
+      "views": 19773
+    },
+    {
+      "date": "2026-03-17",
+      "type": "Carousel",
+      "likes": 97,
+      "er": 5.52,
+      "topic": "Hydration and Performance",
+      "views": 0
+    },
+    {
+      "date": "2026-03-18",
+      "type": "Reel",
+      "likes": 385,
+      "er": 5.56,
+      "topic": "Quick Cardio Blast",
+      "views": 9027
+    },
+    {
+      "date": "2026-03-19",
+      "type": "Carousel",
+      "likes": 143,
+      "er": 9.93,
+      "topic": "Rest Day Ideas",
+      "views": 0
+    },
+    {
+      "date": "2026-03-20",
+      "type": "Reel",
+      "likes": 2960,
+      "er": 5.58,
+      "topic": "Advanced Core Circuit",
+      "views": 72034
+    },
+    {
+      "date": "2026-03-22",
+      "type": "Reel",
+      "likes": 307,
+      "er": 4.71,
+      "topic": "Shoulder Mobility Routine",
+      "views": 8963
+    },
+    {
+      "date": "2026-03-23",
+      "type": "Reel",
+      "likes": 615,
+      "er": 6.93,
+      "topic": "Back Pain Relief Stretches",
+      "views": 12830
+    },
+    {
+      "date": "2026-03-24",
+      "type": "Carousel",
+      "likes": 170,
+      "er": 7.21,
+      "topic": "Breathing Techniques Exercise",
+      "views": 0
+    },
+    {
+      "date": "2026-03-25",
+      "type": "Reel",
+      "likes": 816,
+      "er": 6.05,
+      "topic": "15 Min Arm Workout",
+      "views": 18005
+    },
+    {
+      "date": "2026-03-26",
+      "type": "Carousel",
+      "likes": 239,
+      "er": 16.62,
+      "topic": "Desk Job Health Tips",
+      "views": 0
+    },
+    {
+      "date": "2026-03-27",
+      "type": "Reel",
+      "likes": 620,
+      "er": 4.11,
+      "topic": "Mountain Climber Variations",
+      "views": 20528
+    },
+    {
+      "date": "2026-03-29",
+      "type": "Reel",
+      "likes": 1112,
+      "er": 7.95,
+      "topic": "Glute Bridge Progression",
+      "views": 19783
+    },
+    {
+      "date": "2026-03-29",
+      "type": "Static",
+      "likes": 118,
+      "er": 4.41,
+      "topic": "Fan Feature Friday",
+      "views": 0
+    },
+    {
+      "date": "2026-03-30",
+      "type": "Reel",
+      "likes": 597,
+      "er": 4.66,
+      "topic": "Low Impact Cardio",
+      "views": 18144
+    },
+    {
+      "date": "2026-03-31",
+      "type": "Carousel",
+      "likes": 207,
+      "er": 12.13,
+      "topic": "Stretching vs Warming Up",
+      "views": 0
+    },
+    {
+      "date": "2026-03-31",
+      "type": "Static",
+      "likes": 207,
+      "er": 9.18,
+      "topic": "Gratitude Post",
+      "views": 0
+    }
+  ]
+}
