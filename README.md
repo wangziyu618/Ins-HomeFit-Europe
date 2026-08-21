@@ -125,11 +125,3 @@ python scripts/generate_dashboard.py
 
 ---
 
-## 🔗 关联项目
-
-- [项目1：Gymshark品牌深度研究](https://github.com/wdnmdlgb/Gymshark-Brand-Research) — 欧洲健身服饰DTC品牌竞品分析
-- [项目2：健身APP用户行为数据分析](https://github.com/wdnmdlgb/FitnessApp-User-Behavior-Analytics) — Python+SQL+ECharts数据看板
-
----
-
-*Made with Python & ECharts for portfolio | 2026*
