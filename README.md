@@ -1,4 +1,4 @@
-# @homefit.europe — Instagram模拟运营项目 📱
+﻿# @homefit.europe — Instagram模拟运营项目 📱
 
 > 90天欧洲居家健身Instagram账号运营复盘 | 内容策略 + 数据分析 + 可视化看板
 >
@@ -16,10 +16,10 @@
 
 | 文件 | 说明 | 链接 |
 |------|------|------|
-| 🖥️ **运营数据看板** | 交互式看板：粉丝增长/内容表现/受众画像/Top帖子 | [在线体验](https://wdnmdlgb.github.io/Ins-HomeFit-Europe/dashboard/) |
-| 📋 运营复盘报告 | 90天完整复盘：策略执行+数据分析+优化建议 | [查看报告](https://github.com/wdnmdlgb/Ins-HomeFit-Europe/blob/master/report/运营复盘报告.md) |
-| 📝 账号定位策略 | 定位/目标/内容支柱/发布节奏/增长策略 | [查看策略](https://github.com/wdnmdlgb/Ins-HomeFit-Europe/blob/master/strategy/账号定位与运营策略.md) |
-| ✍️ 帖子文案库 | Reels/Carousel/Stories完整英文文案+标签 | [查看文案](https://github.com/wdnmdlgb/Ins-HomeFit-Europe/blob/master/content/帖子文案库.md) |
+| 🖥️ **运营数据看板** | 交互式看板：粉丝增长/内容表现/受众画像/Top帖子 | [在线体验](https://wangziyu618.github.io/Ins-HomeFit-Europe/dashboard/) |
+| 📋 运营复盘报告 | 90天完整复盘：策略执行+数据分析+优化建议 | [查看报告](https://github.com/wangziyu618/Ins-HomeFit-Europe/blob/master/report/运营复盘报告.md) |
+| 📝 账号定位策略 | 定位/目标/内容支柱/发布节奏/增长策略 | [查看策略](https://github.com/wangziyu618/Ins-HomeFit-Europe/blob/master/strategy/账号定位与运营策略.md) |
+| ✍️ 帖子文案库 | Reels/Carousel/Stories完整英文文案+标签 | [查看文案](https://github.com/wangziyu618/Ins-HomeFit-Europe/blob/master/content/帖子文案库.md) |
 
 ---
 
