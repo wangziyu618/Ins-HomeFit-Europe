@@ -83,6 +83,8 @@ CAROUSELS = {
 "Breathing Techniques Exercise": ("🌬️", "BREATHING DURING EXERCISE — DO IT RIGHT", ["1. Exhale on the effort (hard part)","2. Inhale on the release","3. Don't hold your breath (valsalva only for heavy)","4. Core bracing before movement","5. Practice box breathing for calm"], "Breath drives performance.\n📌 Save for your next set"),
 "Desk Job Health Tips": ("💻", "DESK JOB? PROTECT YOUR BODY", ["1. Stand up every 45-60 min","2. Screen at eye level","3. Chair: feet flat, back supported","4. 2-min stretch per work hour","5. Walk during lunch break"], "Your desk shouldn't wreck your body.\n💾 Save for work hours"),
 "Injury Prevention Tips": ("🩹", "INJURY PREVENTION — THE 5 RULES", ["1. Warm up every session","2. Progress volume slowly (10% rule)","3. Sleep 7-9 hours","4. Pain ≠ gain; stop sharp pain","5. Mobility work 2x per week"], "Train smart, stay healthy.\n📌 Save this"),
+"How to Do a Perfect Push-Up": ("💪", "THE PERFECT PUSH-UP — BREAK IT DOWN", ["1. Hands slightly wider than shoulders","2. Body in one straight line","3. Lower chest to just above floor","4. Elbows at ~45°, not flared","5. Push through palms, exhale up"], "Master the form before adding reps.\n📌 Save for form check"),
+"Cold Weather Workout Motivation": ("❄️", "COLD OUTSIDE? WORK OUT ANYWAY", ["1. Move indoors — 15 min is enough","2. Warm up longer (muscles are cold)","3. Layer up, then strip down","4. Pick a fun workout: boxing, dance","5. Reward yourself after"], "Winter is where consistency is built.\n💾 Save for cold days"),
 }
 
 # ---------- Static content: topic -> (emoji, text) ----------
