@@ -2,6 +2,12 @@
 
 > 作品集案例｜内容系统、实验设计、数据口径与复盘模板
 
+## Dashboard 预览
+
+[![Ins-HomeFit-Europe Dashboard Preview](assets/dashboard-preview.svg)](https://wangziyu618.github.io/Ins-HomeFit-Europe/dashboard/)
+
+> 点击预览图查看完整案例页面。
+
 ## 项目定位
 
 这是一个面向欧洲上班族居家健身场景的**模拟运营案例**。账号、粉丝、触达和互动数据均为模拟值，没有真实发布行为，也不能用于证明账号增长或内容效果。
